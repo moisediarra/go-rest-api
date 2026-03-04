@@ -1,6 +1,6 @@
 # go-rest-api
 
-go-rest-api/
+''' go-rest-api/
 │
 ├── cmd/api/main.go
 ├── internal/
@@ -17,4 +17,4 @@ go-rest-api/
 ├── docker-compose.yml
 ├── .env
 ├── go.mod
-└── go.sum
+└── go.sum '''
