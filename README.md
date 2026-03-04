@@ -1,7 +1,7 @@
 # go-rest-api
 
-``` go-rest-api/
-│
+```
+go-rest-api/
 ├── cmd/api/main.go
 ├── internal/
 │   ├── database/postgres.go
